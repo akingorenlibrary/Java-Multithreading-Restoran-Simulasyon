@@ -1,0 +1,76 @@
+Müşteri 8 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 7 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 6 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 3 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 4 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 1 - Öncelik: 1 - Sırada Bekliyor
+Müşteri 2 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 5 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 10 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 9 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 12 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 13 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 14 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 15 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 16 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 17 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 20 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 18 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 19 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 11 - Öncelik: 0 - Sırada Bekliyor
+Müşteri 1 - Öncelik: 1 - Masaya 0'e oturdu.
+Müşteri 2 - Öncelik: 0 - Masaya 1'e oturdu.
+Müşteri 3 - Öncelik: 0 - Masaya 2'e oturdu.
+Müşteri 4 - Öncelik: 0 - Masaya 3'e oturdu.
+Müşteri 5 - Öncelik: 0 - Masaya 4'e oturdu.
+Müşteri 6 - Öncelik: 0 - Masaya 5'e oturdu.
+Garson 1 - Müşteri 1 - Öncelik 1 - Masa 0 den sipariş aldı.
+Garson 3 - Müşteri 3 - Öncelik 0 - Masa 2 den sipariş aldı.
+Garson 2 - Müşteri 2 - Öncelik 0 - Masa 1 den sipariş aldı.
+Aşçı 1 - Müşteri 1 - Öncelik 1 - Masa 0 siparişini hazırladı.
+Aşçı 2 - Müşteri 2 - Öncelik 0 - Masa 1 siparişini hazırladı.
+Garson 2 - Müşteri 5 - Öncelik 0 - Masa 4 den sipariş aldı.
+Garson 1 - Müşteri 6 - Öncelik 0 - Masa 5 den sipariş aldı.
+Garson 3 - Müşteri 4 - Öncelik 0 - Masa 3 den sipariş aldı.
+Müşteri 1 - Öncelik 1 - Masa 0 yemeğini yedi.
+Müşteri 2 - Öncelik 0 - Masa 1 yemeğini yedi.
+Müşteri 8 - Öncelik: 0 - Masaya 0'e oturdu.
+Müşteri 8 - Öncelik: 0 - Masaya 0'e oturdu.
+Müşteri 10 - Öncelik: 0 - Masaya 1'e oturdu.
+Müşteri 10 - Öncelik: 0 - Masaya 1'e oturdu.
+Aşçı 2 - Müşteri 3 - Öncelik 0 - Masa 2 siparişini hazırladı.
+Aşçı 1 - Müşteri 4 - Öncelik 0 - Masa 3 siparişini hazırladı.
+Garson 1 - Müşteri 8 - Öncelik 0 - Masa 0 den sipariş aldı.
+Garson 1 - Müşteri 10 - Öncelik 0 - Masa 1 den sipariş aldı.
+Müşteri 4 - Öncelik 0 - Masa 3 yemeğini yedi.
+Müşteri 3 - Öncelik 0 - Masa 2 yemeğini yedi.
+Müşteri 11 - Öncelik: 0 - Masaya 2'e oturdu.
+Müşteri 12 - Öncelik: 0 - Masaya 3'e oturdu.
+Aşçı 1 - Müşteri 6 - Öncelik 0 - Masa 5 siparişini hazırladı.
+Aşçı 2 - Müşteri 5 - Öncelik 0 - Masa 4 siparişini hazırladı.
+Garson 1 - Müşteri 11 - Öncelik 0 - Masa 2 den sipariş aldı.
+Garson 1 - Müşteri 12 - Öncelik 0 - Masa 3 den sipariş aldı.
+Müşteri 6 - Öncelik 0 - Masa 5 yemeğini yedi.
+Müşteri 5 - Öncelik 0 - Masa 4 yemeğini yedi.
+Müşteri 14 - Öncelik: 0 - Masaya 4'e oturdu.
+Müşteri 14 - Öncelik: 0 - Masaya 4'e oturdu.
+Müşteri 15 - Öncelik: 0 - Masaya 5'e oturdu.
+Aşçı 1 - Müşteri 10 - Öncelik 0 - Masa 1 siparişini hazırladı.
+Garson 1 - Müşteri 14 - Öncelik 0 - Masa 4 den sipariş aldı.
+Garson 1 - Müşteri 15 - Öncelik 0 - Masa 5 den sipariş aldı.
+Müşteri 10 - Öncelik 0 - Masa 1 yemeğini yedi.
+Müşteri 16 - Öncelik: 0 - yer bulamadı ayrıldı.
+Müşteri 17 - Öncelik: 0 - yer bulamadı ayrıldı.
+Müşteri 18 - Öncelik: 0 - yer bulamadı ayrıldı.
+Müşteri 19 - Öncelik: 0 - yer bulamadı ayrıldı.
+Müşteri 20 - Öncelik: 0 - yer bulamadı ayrıldı.
+Aşçı 1 - Müşteri 8 - Öncelik 0 - Masa 0 siparişini hazırladı.
+Müşteri 8 - Öncelik 0 - Masa 0 yemeğini yedi.
+Aşçı 1 - Müşteri 15 - Öncelik 0 - Masa 5 siparişini hazırladı.
+Müşteri 15 - Öncelik 0 - Masa 5 yemeğini yedi.
+Aşçı 1 - Müşteri 14 - Öncelik 0 - Masa 4 siparişini hazırladı.
+Müşteri 14 - Öncelik 0 - Masa 4 yemeğini yedi.
+Aşçı 1 - Müşteri 12 - Öncelik 0 - Masa 3 siparişini hazırladı.
+Müşteri 12 - Öncelik 0 - Masa 3 yemeğini yedi.
+Aşçı 1 - Müşteri 11 - Öncelik 0 - Masa 2 siparişini hazırladı.
+Müşteri 11 - Öncelik 0 - Masa 2 yemeğini yedi.
